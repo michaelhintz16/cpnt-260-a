@@ -8,4 +8,4 @@ The images i used i got from https://pixabay.com/images/search/dog/
 
 
 i also added a image gallery. if you click on gallery in the navagation it will take you to the gallery 
-for the look of the gallery it was inspired by andy bell. https://archive.hankchizljaw.com/wrote/create-a-responsive-grid-layout-with-no-media-queries-using-css-grid/ and i think it turned out good. the pictures are mainly lorem picsum but i added a few ones i found just to add some fun. 
+for the look of the gallery it was inspired by andy bell. https://archive.hankchizljaw.com/wrote/create-a-responsive-grid-layout-with-no-media-queries-using-css-grid/ and i think it turned out good. the pictures are mainly lorem picsum but i added a few ones i found just to add some fun.
